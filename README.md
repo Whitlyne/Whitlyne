@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack web developer in coopérative training<br>Student at University of Burgundy
+<br>Student at University of Burgundy
 
 
 # 💻 Tech Stack:
